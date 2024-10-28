@@ -5,7 +5,6 @@
 
 ## Structure du Projet
 
-```
 ├── main.py              # Interface frontend avec Streamlit pour l'interaction utilisateur
 ├── generate_music.py     # Logique de génération de musique via l'API de Suno AI
 ├── file_processing.py    # Génération d'invites musicales avec l'API d'OpenAI
