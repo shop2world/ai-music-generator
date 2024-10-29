@@ -1,6 +1,10 @@
-https://www.youtube.com/watch?v=0j-ZVinLUUQ
+
 
 ```markdown
+
+https://www.youtube.com/watch?v=0j-ZVinLUUQ
+
+
 # Générateur de Musique IA 🎶
 
 **Générateur de Musique IA** est une application qui utilise les APIs d'OpenAI et de Suno AI pour générer de la musique à partir d'une invite fournie par l'utilisateur. Saisissez une invite, et l'application générera un titre, des tags de style, des paroles, et une piste musicale téléchargeable.
